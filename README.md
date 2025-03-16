@@ -15,4 +15,6 @@ Python (Tkinter for GUI)
 SQLite (Database for storing book records)
 
 Block diagram
+
+
 ![image](https://github.com/user-attachments/assets/3877af9b-d8ae-41fe-b166-651e339d38bb)
